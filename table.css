@@ -1,0 +1,28 @@
+.sort{
+    background-image: url('./img/ss/tb.webp');
+    background-repeat: repeat;
+   height: 100%;
+   width: 100%;
+
+
+}
+
+.card-body{
+    background-image: url('./img/gif.gif');
+    background-repeat:no-repeat;
+width: 100%;
+justify-content: center;
+object-fit: cover;
+}
+
+.set{
+    color:black;
+    background-color:rgba(255, 0, 0, 0.229);
+  
+  text-align: center;
+  /* padding-top: 30px; */
+  font-size: xx-large;
+  /* background-image: url('./img/a/order.jpg');
+  background-repeat:repeat; */
+}
+

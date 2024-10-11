@@ -1,0 +1,53 @@
+.header h1{
+    text-align: center;
+    font-size: 80px;
+    width: auto;
+    color: rgba(198, 173, 127, 0.423);
+   border-bottom: 2px dashed rgba(255, 255, 255, 0.06);
+
+
+}
+
+.body1 img{
+    width: 400px;
+    height: 300px;
+    border-radius: 100%;
+    margin: 0 auto;
+    display: block;
+    margin-top: 50px;
+ 
+}
+.body13{
+   width: 40%;
+   text-align: center;
+   margin: 0 auto;
+font-size: 35px;
+color: #00000056;
+
+
+ 
+}
+
+.body14{
+    width: 50%;
+    text-align: center;
+    margin: 0 auto;
+    font-size:30px;
+    color: rgba(255, 255, 255, 0.404);
+   
+}
+
+    body{
+        background-image: url(./img/wow.avif);
+        background-repeat: no-repeat;
+        background-size: cover;
+        width: auto;
+        height: auto;
+    }
+
+    .main{
+        background-color: #00000029;
+        width: 50%;
+        margin:0 auto;
+        border: 2px dashed rgba(255, 255, 255, 0.404);;
+    }

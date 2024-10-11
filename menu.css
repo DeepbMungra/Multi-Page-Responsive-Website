@@ -1,0 +1,33 @@
+
+
+body{
+    background-image: url('./img/a/off.jpg');
+    background-repeat: repeat;
+   height: auto;
+   width: auto;
+}
+
+.card .card-body{
+    background-image: url('./img/a/red.jpg');
+    height: 100%;
+    width: 100%;
+}
+.set{
+    color:black;
+    background-color:rgba(255, 0, 0, 0.337);
+    padding: 10px;
+}
+
+.btn
+    {
+background-color: orange;
+color: brown;
+border: none;
+outline: none;
+}
+
+.t{
+    color: rgb(0, 0, 0);
+ 
+    font-size: large;
+}

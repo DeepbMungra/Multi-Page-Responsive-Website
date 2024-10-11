@@ -1,0 +1,63 @@
+.log {
+    /* background-color: #c2c7ea;
+    height: 50%;
+    width: 35%;
+    
+    margin: 0 auto;
+    text-align: center;
+padding: 50px;
+align-items: center;
+justify-content: center;
+margin-top: 180px; */
+background:#c2c7ea;
+padding: 30px;
+width: 30%;
+height: 20%;
+margin: 0 auto;
+border-radius: 200px;
+
+}
+
+a {
+    background-color: #ad1e1e;
+    padding: 0px 10px;
+    color:#c2c7ea ;
+}
+
+.alry{
+    margin: 10px 0px;
+}
+
+
+.hos {
+    /* background-color: #8e96ce;
+    height: 100%;
+    width: 60%;
+    margin: 0 auto;
+    text-align: center;
+
+align-items: center;
+justify-content: center; */
+    background: #9097d1;
+    height: 10%;
+    width: 90%;
+    margin:0 auto;
+  
+/*    
+    display: flex; */
+    justify-content: center;
+    text-align: center;
+
+
+
+}
+
+.trr{
+    background-color: #b53232;
+    width: 100%;
+    margin-top: 150px;
+}
+
+body{
+    background-color: #8e96ce;
+}

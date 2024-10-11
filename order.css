@@ -1,0 +1,100 @@
+#fname{
+    width:80%;
+    text-align: center;
+}
+
+/* .list3{
+    display: flex;
+    justify-content: center;
+} */
+
+.l,.s,.v{
+    display: flex;
+    justify-content: center;
+    gap: 320px;
+    align-items: center;
+   border: 10px solid rgba(255, 0, 0, 0.286);
+   
+}
+
+.l,.s,.v p{
+    color: rgba(210, 207, 14, 0.752);
+}
+
+.list{
+    background-color: #5c151536;
+    color: #120505;
+  
+}
+
+.list1{
+    padding-left: 66px;
+}
+
+
+.m{
+    background-color: #000000c1;
+}
+h1{
+text-align: center;
+/* background-color: #d5000097; */
+font-size: 125px;
+color: rgba(210, 207, 14, 0.752);
+background-color: #000000c1;
+border: 10px solid rgba(255, 0, 0, 0.286);
+}
+
+.has{
+    background-color: #d5000097;
+}
+
+.two{
+    display: flex;
+    justify-content: space-around;
+align-items: center;
+
+}
+
+.one,.tro{
+    border: 10px solid rgba(255, 0, 0, 0.286);
+    padding: 10px;
+    background-color: #000000c1;
+    color: rgba(210, 207, 14, 0.752);
+    text-align: center;
+}
+body{
+    background-image: url(img/a/red.jpg);
+}
+.bbtn a{
+    background-color: #000000c1;
+    color: rgba(210, 207, 14, 0.752);
+    border: 10px solid rgba(255, 0, 0, 0.286);
+   
+    padding: 10px 20px;
+    cursor: pointer;
+    text-align: center;
+    text-decoration: none;
+
+    font-size: 16px;
+    margin: 4px 2px;
+    border-radius: 12px;
+    
+}
+.bbtn{
+   display: flex;
+   justify-content: center;
+}
+
+.tree{
+    color: rgba(210, 207, 14, 0.752);
+    background-color: #000000c1;
+}
+
+.card{
+    color: rgba(210, 207, 14, 0.752);
+    background-color: #000000c1;
+    border: 10px solid rgba(255, 0, 0, 0.286);
+}
+.h2{
+    border: 10px solid rgba(255, 0, 0, 0.286);
+}

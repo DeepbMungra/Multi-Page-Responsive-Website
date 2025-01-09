@@ -1,1 +1,10 @@
 # Multi-Page-Responsive-Website
+![screencapture-deepbmungra-github-io-Multi-Page-Responsive-Website-2025-01-09-12_10_25](https://github.com/user-attachments/assets/d7825730-c253-4d19-b882-1209ff924b73)
+![screencapture-deepbmungra-github-io-Multi-Page-Responsive-Website-menu-html-2025-01-09-12_10_41](https://github.com/user-attachments/assets/aa0eaa15-a4a6-486b-a2e4-cdfdaa01c0d5)
+![screencapture-deepbmungra-github-io-Multi-Page-Responsive-Website-Resturants-html-2025-01-09-12_11_28](https://github.com/user-attachments/assets/c5e0ff75-85c6-4af0-856d-a972382bf503)
+![screencapture-deepbmungra-github-io-Multi-Page-Responsive-Website-table-html-2025-01-09-12_12_51](https://github.com/user-attachments/assets/4b1694a6-6e12-478c-98e4-7d119a26e177)
+![screencapture-deepbmungra-github-io-Multi-Page-Responsive-Website-About-html-2025-01-09-12_13_38](https://github.com/user-attachments/assets/e246019b-e027-4ed5-b1b2-4967851ec2d7)
+![screencapture-deepbmungra-github-io-Multi-Page-Responsive-Website-feedback-html-2025-01-09-12_14_04](https://github.com/user-attachments/assets/949a3fdf-1003-42ea-a92b-bf8b3b632584)
+![screencapture-deepbmungra-github-io-Multi-Page-Responsive-Website-login-html-2025-01-09-12_14_33](https://github.com/user-attachments/assets/93fe8d97-1411-4040-a5f1-ca765a98a2bd)
+![screencapture-deepbmungra-github-io-Multi-Page-Responsive-Website-Registration-html-2025-01-09-12_14_47](https://github.com/user-attachments/assets/fcfb4668-0485-4932-80e8-2bbbf1d879b7)
+![screencapture-deepbmungra-github-io-Multi-Page-Responsive-Website-Profile-html-2025-01-09-12_15_32](https://github.com/user-attachments/assets/10052133-038e-4d33-b2bb-4b08ec9e8c00)
